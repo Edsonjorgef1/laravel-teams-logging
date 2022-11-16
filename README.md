@@ -135,14 +135,14 @@ Here are some results of notifications sent to microsoft teams channel using car
 
 AVATARS:
 <br>
-- EMERGENCY:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/721C24.png)
-- ALERT:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/AF2432.png)
-- CRITICAL: <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/FF0000.png)
-- ERROR:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/FF8000.png)
-- WARNING:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/FFEEBA.png)
-- NOTICE:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/B8DAFF.png)
-- INFO:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/BEE5EB.png)
-- DEBUG:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/C3E6CB.png)
+- EMERGENCY:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/721C24.png)
+- ALERT:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/AF2432.png)
+- CRITICAL: <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/FF0000.png)
+- ERROR:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/FF8000.png)
+- WARNING:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/FFEEBA.png)
+- NOTICE:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/B8DAFF.png)
+- INFO:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/BEE5EB.png)
+- DEBUG:  <br> ![Screenshot](https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/C3E6CB.png)
 
 ## License
 

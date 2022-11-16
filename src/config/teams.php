@@ -31,14 +31,14 @@ return [
     |
     */
     'avatars' => [
-         'emergency' => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/721C24.png',
-         'alert'     => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/AF2432.png',
-         'critical'  => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/FF0000.png',
-         'error'     => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/FF8000.png',
-         'warning'   => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/FFEEBA.png',
-         'notice'    => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/B8DAFF.png',
-         'info'      => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/BEE5EB.png',
-         'debug'     => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/dev/assets/avatar/C3E6CB.png',
+         'emergency' => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/721C24.png',
+         'alert'     => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/AF2432.png',
+         'critical'  => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/FF0000.png',
+         'error'     => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/FF8000.png',
+         'warning'   => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/FFEEBA.png',
+         'notice'    => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/B8DAFF.png',
+         'info'      => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/BEE5EB.png',
+         'debug'     => 'https://raw.githubusercontent.com/edsonjorgef1/laravel-teams-logging/master/assets/avatar/C3E6CB.png',
     ],
 
     /*
